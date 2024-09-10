@@ -1,0 +1,329 @@
+TELTONIKA CODEC 8 EX FMC
+{
+    "imeiLen": 15,
+    "imei": "863719065084221",
+    "dataPacket": [
+        {
+            "preamble": "00000000",
+            "dataFieldLen": 955,
+            "codec": "8E",
+            "numOfData1": 7,
+            "record": [
+                {
+                    "timeStamp": "2024-08-29 20:27:40",
+                    "priority": "Low",
+                    "gpsElement": {
+                        "longitude": 106.8159648,
+                        "latitude": -6.3132399,
+                        "altitude": 34,
+                        "angle": 73,
+                        "satellite": 11,
+                        "speed": 0
+                    },
+                    "eventIoId": 0,
+                    "nTotalId": 29,
+                    "n1": {
+                        "n1TotalIo": 18,
+                        "n1Data": [
+                            {
+                                "id": 22,
+                                "value": 1
+                            },
+                            {
+                                "id": 71,
+                                "value": 2
+                            },
+                            {
+                                "id": 240,
+                                "value": 1
+                            },
+                            {
+                                "id": 21,
+                                "value": 4
+                            },
+                            {
+                                "id": 200,
+                                "value": 0
+                            },
+                            {
+                                "id": 239,
+                                "value": 1
+                            },
+                            {
+                                "id": 600,
+                                "value": 0
+                            },
+                            {
+                                "id": 601,
+                                "value": 0
+                            },
+                            {
+                                "id": 602,
+                                "value": 0
+                            },
+                            {
+                                "id": 603,
+                                "value": 0
+                            },
+                            {
+                                "id": 605,
+                                "value": 0
+                            },
+                            {
+                                "id": 606,
+                                "value": 0
+                            },
+                            {
+                                "id": 609,
+                                "value": 0
+                            },
+                            {
+                                "id": 619,
+                                "value": 0
+                            },
+                            {
+                                "id": 620,
+                                "value": 0
+                            },
+                            {
+                                "id": 621,
+                                "value": 0
+                            },
+                            {
+                                "id": 665,
+                                "value": 0
+                            },
+                            {
+                                "id": 666,
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "n2": {
+                        "n2TotalIo": 11,
+                        "n2Data": [
+                            {
+                                "id": 67,
+                                "value": 8713
+                            },
+                            {
+                                "id": 68,
+                                "value": 52
+                            },
+                            {
+                                "id": 181,
+                                "value": 0
+                            },
+                            {
+                                "id": 182,
+                                "value": 0
+                            },
+                            {
+                                "id": 66,
+                                "value": 14232
+                            },
+                            {
+                                "id": 24,
+                                "value": 0
+                            },
+                            {
+                                "id": 604,
+                                "value": 0
+                            },
+                            {
+                                "id": 607,
+                                "value": 0
+                            },
+                            {
+                                "id": 608,
+                                "value": 0
+                            },
+                            {
+                                "id": 617,
+                                "value": 255
+                            },
+                            {
+                                "id": 618,
+                                "value": 255
+                            }
+                        ]
+                    },
+                    "n4": {
+                        "n4TotalIo": 0,
+                        "n4Data": []
+                    },
+                    "n8": {
+                        "n8TotalIo": 0,
+                        "n8Data": []
+                    },
+                    "nx": {
+                        "nxTotalIo": 0,
+                        "nxData": []
+                    }
+                }
+            ],
+            "crc16": 26638
+        },
+        {
+            "preamble": "00000000",
+            "dataFieldLen": 139,
+            "codec": "8E",
+            "numOfData1": 1,
+            "record": [
+                {
+                    "timeStamp": "2024-08-29 20:28:11",
+                    "priority": "Low",
+                    "gpsElement": {
+                        "longitude": 106.8159993,
+                        "latitude": -6.3132432,
+                        "altitude": 34,
+                        "angle": 73,
+                        "satellite": 12,
+                        "speed": 0
+                    },
+                    "eventIoId": 0,
+                    "nTotalId": 29,
+                    "n1": {
+                        "n1TotalIo": 18,
+                        "n1Data": [
+                            {
+                                "id": 22,
+                                "value": 1
+                            },
+                            {
+                                "id": 71,
+                                "value": 3
+                            },
+                            {
+                                "id": 240,
+                                "value": 1
+                            },
+                            {
+                                "id": 21,
+                                "value": 4
+                            },
+                            {
+                                "id": 200,
+                                "value": 0
+                            },
+                            {
+                                "id": 239,
+                                "value": 1
+                            },
+                            {
+                                "id": 600,
+                                "value": 0
+                            },
+                            {
+                                "id": 601,
+                                "value": 0
+                            },
+                            {
+                                "id": 602,
+                                "value": 0
+                            },
+                            {
+                                "id": 603,
+                                "value": 0
+                            },
+                            {
+                                "id": 605,
+                                "value": 0
+                            },
+                            {
+                                "id": 606,
+                                "value": 0
+                            },
+                            {
+                                "id": 609,
+                                "value": 0
+                            },
+                            {
+                                "id": 619,
+                                "value": 0
+                            },
+                            {
+                                "id": 620,
+                                "value": 0
+                            },
+                            {
+                                "id": 621,
+                                "value": 0
+                            },
+                            {
+                                "id": 665,
+                                "value": 0
+                            },
+                            {
+                                "id": 666,
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "n2": {
+                        "n2TotalIo": 11,
+                        "n2Data": [
+                            {
+                                "id": 67,
+                                "value": 8737
+                            },
+                            {
+                                "id": 68,
+                                "value": 52
+                            },
+                            {
+                                "id": 181,
+                                "value": 19
+                            },
+                            {
+                                "id": 182,
+                                "value": 17
+                            },
+                            {
+                                "id": 66,
+                                "value": 14207
+                            },
+                            {
+                                "id": 24,
+                                "value": 0
+                            },
+                            {
+                                "id": 604,
+                                "value": 0
+                            },
+                            {
+                                "id": 607,
+                                "value": 0
+                            },
+                            {
+                                "id": 608,
+                                "value": 0
+                            },
+                            {
+                                "id": 617,
+                                "value": 255
+                            },
+                            {
+                                "id": 618,
+                                "value": 255
+                            }
+                        ]
+                    },
+                    "n4": {
+                        "n4TotalIo": 0,
+                        "n4Data": []
+                    },
+                    "n8": {
+                        "n8TotalIo": 0,
+                        "n8Data": []
+                    },
+                    "nx": {
+                        "nxTotalIo": 0,
+                        "nxData": []
+                    }
+                }
+            ],
+            "crc16": 45029
+        }
+    ]
+}
